@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erxop
 - 👀 I’m available for work
-- 🌱 successfully completed a fullstack web development course in January  
+- 🌱 Completed a fullstack web development course in January  
 - 💞️ I’m looking to collaborate on anything related to tech
 - 📫 How to reach me: daniellachukwuma46@gmail.com
 - 😄 Pronouns: She/her
