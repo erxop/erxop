@@ -2,7 +2,7 @@
 - 👀 I’m available for work
 - 🌱 Completed a fullstack web development course in January  
 - 💞️ I’m looking to collaborate on anything related to tech
-- 📫 How to reach me: daniellachukwuma46@gmail.com
+- 📫 How to reach me: elledanny68@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am available for work
 
