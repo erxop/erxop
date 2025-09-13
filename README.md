@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @erxop
 - 👀 I’m available for work
-- 🌱 Completed a fullstack web development course in January  
+- 🌱 Web developer
 - 💞️ I’m looking to collaborate on anything related to tech
-- 📫 How to reach me: elledanny68@gmail.com
+- 📫 How to reach me: daniellachukwuma46@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am available for work
+- ⚡ Fun fact: 
 
 <!---
 erxop/erxop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
